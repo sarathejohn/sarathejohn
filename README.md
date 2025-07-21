@@ -1,7 +1,7 @@
 
 Hi there!
 
-I’m Miraya, a frontend design engineer based in Germany.
+I’m sarath e john, a frontend design engineer based in Germany.
 
 I love turning design ideas into lightning-fast, accessible interfaces that feel effortless.
 
